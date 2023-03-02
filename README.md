@@ -7,7 +7,7 @@
 #### Setup (before the demo)
 
 - Create a team on joincoded's GitHub with all the students from the cohort ([here](https://github.com/orgs/JoinCODED/new-team))
-- Give the team `write` permission for the [task repo](https://github.com/JoinCODED/Bootcamps/settings/collaboration)
+- Give the team `write` permission for the [task repo](https://github.com/JoinCODED/CODED-Bootcamps/settings/collaboration)
 - Create a new Trello board.
   - Sample board [Trello board](https://trello.com/b/dqOxvRMO/bootcamp-attendees)
 - Give the students permission to access the board.
@@ -89,4 +89,4 @@
 #### Bootcamp Roster Task
 
 1. Ask each students to go to the board and handle their card.
-2. Students should clone the [repo](https://github.com/JoinCODED/Bootcamps) and start working.
+2. Students should clone the [repo](https://github.com/JoinCODED/CODED-Bootcamps) and start working.
