@@ -9,7 +9,7 @@
 - Create a team on joincoded's GitHub with all the students from the cohort ([here](https://github.com/orgs/JoinCODED/new-team))
 - Give the team `write` permission for the [task repo](https://github.com/JoinCODED/Bootcamps/settings/collaboration)
 - Create a new Trello board.
--- Sample board [Trello board](https://trello.com/b/dqOxvRMO/bootcamp-attendees)
+  - Sample board [Trello board](https://trello.com/b/dqOxvRMO/bootcamp-attendees)
 - Give the students permission to access the board.
 - Add the following trello cards to the backlog:
   - > `<Instructor>` will create a new cohort for `<Cohort>`
@@ -88,5 +88,5 @@
 
 #### Bootcamp Roster Task
 
-1. Ask students to go to the [board](https://trello.com/b/dqOxvRMO/bootcamp-attendees) and clone the [repo](https://github.com/JoinCODED/Bootcamps).
+1. Ask students to go to the and clone the [repo](https://github.com/JoinCODED/Bootcamps).
 2. Each student should handle their card from the trello board
