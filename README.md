@@ -88,5 +88,5 @@
 
 #### Bootcamp Roster Task
 
-1. Ask students to go to the and clone the [repo](https://github.com/JoinCODED/Bootcamps).
-2. Each student should handle their card from the trello board
+1. Ask each students to go to the board and handle their card.
+2. Students should clone the [repo](https://github.com/JoinCODED/Bootcamps) and start working.
